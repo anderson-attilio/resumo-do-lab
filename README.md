@@ -1,7 +1,7 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-No tópico sobre os benefíciodas da nuvem, aprendi sobre:
+**No tópico sobre os benefíciodas da nuvem, aprendi sobre:**
 
 **Alta disponibilidade**  
 A alta disponibilidade garante que a infraestrutura como um todo esteja sempre ativa e funcional. Isso inclui o gerenciamento de dados e armazenamento em ambientes separados (físicos e na nuvem), assim como os diferentes locais onde os serviços e aplicações são executados.
@@ -13,9 +13,9 @@ A escalabilidade na nuvem permite que os recursos tecnológicos sejam ampliados 
 Elasticidade refere-se à capacidade de ajustar rapidamente os recursos de um sistema (como armazenamento, memória e processamento) para atender às necessidades variáveis. Isso elimina a necessidade de planejar antecipadamente a capacidade para picos de uso, pois os recursos se expandem ou diminuem conforme necessário.
 
 **Confiabilidade e Resiliência**  
-A confiabilidade na nuvem é uma responsabilidade compartilhada. Ao projetar e operar aplicativos críticos, você pode confiar no suporte da nuvem, que prioriza a transparência e a rapidez na resolução de problemas.
+A confiabilidade na nuvem é uma responsabilidade compartilhada. Ao projetar e operar aplicações críticas, você pode confiar no suporte da nuvem, que prioriza a transparência e a rapidez na resolução de problemas.
 
-A palavra **resiliência** também é muito utilizada no contexto humano, referindo-se à capacidade de superar desafios com sabedoria e equilíbrio. Da mesma forma, a nuvem é projetada para ser resiliente, resistindo a falhas e mantendo seus serviços operando, mesmo em situações adversas.
+A palavra **resiliência** também é muito utilizada no contexto da confiabilidade em nuvem. Da mesma forma, a nuvem é projetada para ser resiliente, resistindo a falhas e mantendo seus serviços operando, mesmo em situações adversas.
 
 **Previsibilidade**  
 Previsibilidade se refere à capacidade de antecipar como o ambiente de negócios ou tecnológico irá se comportar ao longo do tempo, seja em curto, médio ou longo prazo.
