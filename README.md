@@ -32,5 +32,5 @@ A nuvem permite um gerenciamento eficiente dos recursos, oferecendo ferramentas 
 **SLA (Service Level Agreement)**  
 O SLA define o nível de serviço esperado entre o fornecedor e o cliente. Em um ambiente de nuvem, esse acordo estabelece as métricas de qualidade e disponibilidade do serviço. Quanto maior o percentual de SLA (por exemplo, 99,9%), menor o tempo de inatividade do serviço.
 
-Quanto menos 99% - Mais tempo de inatividade 
-Quanto mais 99,9% - Menos tempo de inatividade 
+**Quanto menos 99% - Mais tempo de inatividade**
+**Quanto mais 99,9% - Menos tempo de inatividade**
